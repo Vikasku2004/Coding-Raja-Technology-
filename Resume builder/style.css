@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(0, 255, 72);
+}
+
+
+#cv-form{
+
+    /*display: none;*/
+}
+.myimg {
+    border: 1px solid dimgray;
+    border-radius: 50%;
+    width: 180px;
+}
+.background{
+    background-color: rgba(239, 186, 121, 0.875);
+}
+#cv-template{
+    display: none;
+}
+
+#vikas{
+    color: rgb(239, 9, 9);
+ font-size: 30px;
+margin:10px,10px;
+
+    
+}
+.container{
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+
+}
+.viku{
+    padding-left: 10;
+    padding-right: 10;
+    padding-top: 10;
+    padding-bottom:10;
+}
